@@ -19,3 +19,8 @@
 -->Using this data set we built a machine learning model by using Support vector classifier(SVM) and count vectorizer using two methods to predict the label of the review either positive or negative.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+Referneces:
+Dataset - Kaggle
+Documentation - Sklearn
